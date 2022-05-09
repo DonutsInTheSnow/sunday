@@ -645,7 +645,7 @@ section {
     width: 100%;
     height: 100%;
     z-index: -10;
-    background: url("../img/cta-bg.jpg") no-repeat center center;
+    background: linear-gradient(rgba(242, 202, 63, 0.4), rgba(12, 202, 263, 0.5)), url("../img/cta-bg.jpg") no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
